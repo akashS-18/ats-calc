@@ -1,0 +1,1187 @@
+{
+    "skills": [
+        {
+            "name": "JavaScript",
+            "category": "hard",
+            "synonyms": [
+                "JS",
+                "ECMAScript",
+                "ES6",
+                "ES2015+"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "TypeScript",
+            "category": "hard",
+            "synonyms": [
+                "TS"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "Python",
+            "category": "hard",
+            "synonyms": [
+                "Python3",
+                "Py"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "Java",
+            "category": "hard",
+            "synonyms": [
+                "J2EE",
+                "JDK"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "C++",
+            "category": "hard",
+            "synonyms": [
+                "CPP",
+                "C Plus Plus"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "C#",
+            "category": "hard",
+            "synonyms": [
+                "CSharp",
+                "C Sharp",
+                ".NET C#"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Go",
+            "category": "hard",
+            "synonyms": [
+                "Golang"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Rust",
+            "category": "hard",
+            "synonyms": [],
+            "weight": 0.9
+        },
+        {
+            "name": "Ruby",
+            "category": "hard",
+            "synonyms": [
+                "Ruby on Rails",
+                "RoR"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "PHP",
+            "category": "hard",
+            "synonyms": [
+                "Laravel",
+                "Symfony"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Swift",
+            "category": "hard",
+            "synonyms": [
+                "SwiftUI"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Kotlin",
+            "category": "hard",
+            "synonyms": [],
+            "weight": 0.8
+        },
+        {
+            "name": "Scala",
+            "category": "hard",
+            "synonyms": [],
+            "weight": 0.8
+        },
+        {
+            "name": "R",
+            "category": "hard",
+            "synonyms": [
+                "R Language"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "SQL",
+            "category": "hard",
+            "synonyms": [
+                "Structured Query Language"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "HTML",
+            "category": "hard",
+            "synonyms": [
+                "HTML5"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "CSS",
+            "category": "hard",
+            "synonyms": [
+                "CSS3",
+                "Cascading Style Sheets"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "GraphQL",
+            "category": "hard",
+            "synonyms": [
+                "GQL"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "REST API",
+            "category": "hard",
+            "synonyms": [
+                "RESTful",
+                "REST",
+                "RESTful API",
+                "REST APIs"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "gRPC",
+            "category": "hard",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "React",
+            "category": "tool",
+            "synonyms": [
+                "ReactJS",
+                "React.js"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "Next.js",
+            "category": "tool",
+            "synonyms": [
+                "NextJS",
+                "Next"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Vue.js",
+            "category": "tool",
+            "synonyms": [
+                "Vue",
+                "VueJS"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Angular",
+            "category": "tool",
+            "synonyms": [
+                "AngularJS",
+                "Angular 2+"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Svelte",
+            "category": "tool",
+            "synonyms": [
+                "SvelteKit"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Node.js",
+            "category": "tool",
+            "synonyms": [
+                "NodeJS",
+                "Node"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "Express",
+            "category": "tool",
+            "synonyms": [
+                "Express.js",
+                "ExpressJS"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Django",
+            "category": "tool",
+            "synonyms": [
+                "Django REST Framework",
+                "DRF"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Flask",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.8
+        },
+        {
+            "name": "FastAPI",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.8
+        },
+        {
+            "name": "Spring Boot",
+            "category": "tool",
+            "synonyms": [
+                "Spring",
+                "Spring Framework"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Ruby on Rails",
+            "category": "tool",
+            "synonyms": [
+                "Rails",
+                "RoR"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "TailwindCSS",
+            "category": "tool",
+            "synonyms": [
+                "Tailwind",
+                "Tailwind CSS"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Bootstrap",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Material UI",
+            "category": "tool",
+            "synonyms": [
+                "MUI",
+                "Material Design"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "jQuery",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "PostgreSQL",
+            "category": "tool",
+            "synonyms": [
+                "Postgres",
+                "PG"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "MySQL",
+            "category": "tool",
+            "synonyms": [
+                "MariaDB"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "MongoDB",
+            "category": "tool",
+            "synonyms": [
+                "Mongo"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Redis",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.8
+        },
+        {
+            "name": "Elasticsearch",
+            "category": "tool",
+            "synonyms": [
+                "Elastic",
+                "ELK"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "SQLite",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "DynamoDB",
+            "category": "tool",
+            "synonyms": [
+                "Dynamo"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Firebase",
+            "category": "tool",
+            "synonyms": [
+                "Firestore"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Supabase",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Prisma",
+            "category": "tool",
+            "synonyms": [
+                "Prisma ORM"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Docker",
+            "category": "tool",
+            "synonyms": [
+                "Containerization",
+                "Docker Compose"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "Kubernetes",
+            "category": "tool",
+            "synonyms": [
+                "K8s",
+                "K8"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "AWS",
+            "category": "tool",
+            "synonyms": [
+                "Amazon Web Services",
+                "EC2",
+                "S3",
+                "Lambda"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "Azure",
+            "category": "tool",
+            "synonyms": [
+                "Microsoft Azure"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "GCP",
+            "category": "tool",
+            "synonyms": [
+                "Google Cloud Platform",
+                "Google Cloud"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Terraform",
+            "category": "tool",
+            "synonyms": [
+                "IaC",
+                "Infrastructure as Code"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "CI/CD",
+            "category": "tool",
+            "synonyms": [
+                "Continuous Integration",
+                "Continuous Deployment",
+                "Jenkins",
+                "GitHub Actions",
+                "GitLab CI"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Git",
+            "category": "tool",
+            "synonyms": [
+                "GitHub",
+                "GitLab",
+                "Bitbucket",
+                "Version Control"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Linux",
+            "category": "tool",
+            "synonyms": [
+                "Ubuntu",
+                "CentOS",
+                "Debian",
+                "Unix"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Nginx",
+            "category": "tool",
+            "synonyms": [
+                "NGINX"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Apache",
+            "category": "tool",
+            "synonyms": [
+                "Apache HTTP"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Jest",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Cypress",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Playwright",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Selenium",
+            "category": "tool",
+            "synonyms": [
+                "WebDriver"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "JUnit",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "PyTest",
+            "category": "tool",
+            "synonyms": [
+                "pytest"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Mocha",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Webpack",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Vite",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Babel",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "ESLint",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "Machine Learning",
+            "category": "hard",
+            "synonyms": [
+                "ML",
+                "Deep Learning",
+                "DL"
+            ],
+            "weight": 1.0
+        },
+        {
+            "name": "TensorFlow",
+            "category": "tool",
+            "synonyms": [
+                "TF"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "PyTorch",
+            "category": "tool",
+            "synonyms": [
+                "Torch"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Natural Language Processing",
+            "category": "hard",
+            "synonyms": [
+                "NLP"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Computer Vision",
+            "category": "hard",
+            "synonyms": [
+                "CV",
+                "Image Processing"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Data Science",
+            "category": "hard",
+            "synonyms": [
+                "Data Analysis",
+                "Data Analytics"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Pandas",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "NumPy",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Scikit-learn",
+            "category": "tool",
+            "synonyms": [
+                "sklearn"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "LLM",
+            "category": "hard",
+            "synonyms": [
+                "Large Language Model",
+                "GPT",
+                "LLMs"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Generative AI",
+            "category": "hard",
+            "synonyms": [
+                "GenAI",
+                "Gen AI"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Microservices",
+            "category": "hard",
+            "synonyms": [
+                "Micro Services",
+                "Service-Oriented"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "System Design",
+            "category": "hard",
+            "synonyms": [
+                "Architecture Design",
+                "Software Architecture"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Design Patterns",
+            "category": "hard",
+            "synonyms": [
+                "GoF Patterns"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Data Structures",
+            "category": "hard",
+            "synonyms": [
+                "DSA"
+            ],
+            "weight": 0.9
+        },
+        {
+            "name": "Algorithms",
+            "category": "hard",
+            "synonyms": [],
+            "weight": 0.9
+        },
+        {
+            "name": "OOP",
+            "category": "hard",
+            "synonyms": [
+                "Object-Oriented Programming",
+                "Object Oriented"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Functional Programming",
+            "category": "hard",
+            "synonyms": [
+                "FP"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "TDD",
+            "category": "hard",
+            "synonyms": [
+                "Test-Driven Development",
+                "Test Driven"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Agile",
+            "category": "hard",
+            "synonyms": [
+                "Scrum",
+                "Kanban",
+                "Sprint"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Figma",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Jira",
+            "category": "tool",
+            "synonyms": [
+                "Atlassian"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Confluence",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "Slack",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.4
+        },
+        {
+            "name": "Postman",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "VS Code",
+            "category": "tool",
+            "synonyms": [
+                "Visual Studio Code",
+                "VSCode"
+            ],
+            "weight": 0.4
+        },
+        {
+            "name": "IntelliJ",
+            "category": "tool",
+            "synonyms": [
+                "IntelliJ IDEA",
+                "JetBrains"
+            ],
+            "weight": 0.4
+        },
+        {
+            "name": "RabbitMQ",
+            "category": "tool",
+            "synonyms": [
+                "AMQP"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Kafka",
+            "category": "tool",
+            "synonyms": [
+                "Apache Kafka"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "WebSocket",
+            "category": "hard",
+            "synonyms": [
+                "WebSockets",
+                "Socket.IO"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "OAuth",
+            "category": "hard",
+            "synonyms": [
+                "OAuth2",
+                "OAuth 2.0",
+                "OpenID"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "JWT",
+            "category": "hard",
+            "synonyms": [
+                "JSON Web Token"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "React Native",
+            "category": "tool",
+            "synonyms": [
+                "RN"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Flutter",
+            "category": "tool",
+            "synonyms": [
+                "Dart"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Electron",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Communication",
+            "category": "soft",
+            "synonyms": [
+                "Written Communication",
+                "Verbal Communication"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Leadership",
+            "category": "soft",
+            "synonyms": [
+                "Team Lead",
+                "Tech Lead",
+                "People Management"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Problem Solving",
+            "category": "soft",
+            "synonyms": [
+                "Analytical Thinking",
+                "Critical Thinking"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Teamwork",
+            "category": "soft",
+            "synonyms": [
+                "Collaboration",
+                "Cross-functional",
+                "Team Player"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Time Management",
+            "category": "soft",
+            "synonyms": [
+                "Prioritization",
+                "Deadline-driven"
+            ],
+            "weight": 0.5
+        },
+        {
+            "name": "Adaptability",
+            "category": "soft",
+            "synonyms": [
+                "Flexible",
+                "Quick Learner",
+                "Fast Learner"
+            ],
+            "weight": 0.5
+        },
+        {
+            "name": "Mentoring",
+            "category": "soft",
+            "synonyms": [
+                "Coaching",
+                "Training",
+                "Onboarding"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Presentation",
+            "category": "soft",
+            "synonyms": [
+                "Public Speaking",
+                "Demo",
+                "Stakeholder Communication"
+            ],
+            "weight": 0.5
+        },
+        {
+            "name": "Project Management",
+            "category": "soft",
+            "synonyms": [
+                "PM",
+                "Program Management"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Tableau",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.7
+        },
+        {
+            "name": "Power BI",
+            "category": "tool",
+            "synonyms": [
+                "PowerBI"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Apache Spark",
+            "category": "tool",
+            "synonyms": [
+                "Spark",
+                "PySpark"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Hadoop",
+            "category": "tool",
+            "synonyms": [
+                "HDFS",
+                "MapReduce"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Airflow",
+            "category": "tool",
+            "synonyms": [
+                "Apache Airflow"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "ETL",
+            "category": "hard",
+            "synonyms": [
+                "Extract Transform Load",
+                "Data Pipeline"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Data Warehousing",
+            "category": "hard",
+            "synonyms": [
+                "Snowflake",
+                "Redshift",
+                "BigQuery"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Cybersecurity",
+            "category": "hard",
+            "synonyms": [
+                "Security",
+                "InfoSec",
+                "Application Security"
+            ],
+            "weight": 0.8
+        },
+        {
+            "name": "Penetration Testing",
+            "category": "hard",
+            "synonyms": [
+                "Pen Testing",
+                "Ethical Hacking"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Encryption",
+            "category": "hard",
+            "synonyms": [
+                "AES",
+                "RSA",
+                "Cryptography"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Responsive Design",
+            "category": "hard",
+            "synonyms": [
+                "Mobile-First",
+                "Mobile Responsive"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Accessibility",
+            "category": "hard",
+            "synonyms": [
+                "a11y",
+                "WCAG",
+                "Section 508"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "SEO",
+            "category": "hard",
+            "synonyms": [
+                "Search Engine Optimization"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Performance Optimization",
+            "category": "hard",
+            "synonyms": [
+                "Web Performance",
+                "Page Speed"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "PWA",
+            "category": "hard",
+            "synonyms": [
+                "Progressive Web App"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Storybook",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "Grafana",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Prometheus",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Datadog",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "New Relic",
+            "category": "tool",
+            "synonyms": [
+                "NewRelic"
+            ],
+            "weight": 0.5
+        },
+        {
+            "name": "Sentry",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "Three.js",
+            "category": "tool",
+            "synonyms": [
+                "ThreeJS"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "D3.js",
+            "category": "tool",
+            "synonyms": [
+                "D3"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Socket.IO",
+            "category": "tool",
+            "synonyms": [
+                "SocketIO"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Stripe",
+            "category": "tool",
+            "synonyms": [
+                "Stripe API"
+            ],
+            "weight": 0.6
+        },
+        {
+            "name": "Twilio",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "SendGrid",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.5
+        },
+        {
+            "name": "SAP",
+            "category": "tool",
+            "synonyms": [
+                "SAP ABAP",
+                "SAP HANA"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "Salesforce",
+            "category": "tool",
+            "synonyms": [
+                "SFDC",
+                "Apex"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "ServiceNow",
+            "category": "tool",
+            "synonyms": [],
+            "weight": 0.6
+        },
+        {
+            "name": "Blockchain",
+            "category": "hard",
+            "synonyms": [
+                "Smart Contracts",
+                "Solidity",
+                "Web3"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "IoT",
+            "category": "hard",
+            "synonyms": [
+                "Internet of Things",
+                "Embedded Systems"
+            ],
+            "weight": 0.7
+        },
+        {
+            "name": "AR/VR",
+            "category": "hard",
+            "synonyms": [
+                "Augmented Reality",
+                "Virtual Reality",
+                "XR"
+            ],
+            "weight": 0.6
+        }
+    ]
+}
